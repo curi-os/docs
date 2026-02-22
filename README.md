@@ -1,5 +1,5 @@
-CuriOS Server
-Backend for CuriOS — a Conversational OS where the primary interface is a chat. Instead of clicking through menus, users type what they want (“set up my provider”, “show my settings”, “change my name”), and the server routes the message through a set of conversational flows to produce the next response.
+CuriOS
+A Conversational OS where the primary interface is a chat. Instead of clicking through menus, users type what they want (“set up my provider”, “show my settings”, “change my name”), and the server routes the message through a set of conversational flows to produce the next response.
 
 This repo focuses on making chat interactions reliable and stateful: each message is handled in the context of a session (who the user is, which step they’re on, what’s configured), so the system can guide the user through onboarding and “OS-like” actions.
 

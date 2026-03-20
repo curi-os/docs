@@ -9,7 +9,7 @@ markdown: kramdown
 highlighter: rouge
 
 # Just the Docs configuration
-color_scheme: default
+color_scheme: light
 search_enabled: true
 heading_anchors: true
 

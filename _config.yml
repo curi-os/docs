@@ -1,0 +1,25 @@
+title: CuriOS Docs
+description: Documentation for CuriOS — A Conversational OS
+remote_theme: just-the-docs/just-the-docs
+
+url: "https://curi-os.github.io"
+baseurl: "/docs"  # matches the repository name (curi-os/docs → /docs)
+
+markdown: kramdown
+highlighter: rouge
+
+# Just the Docs configuration
+color_scheme: default
+search_enabled: true
+heading_anchors: true
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+
+# Footer links
+footer_content: "CuriOS Documentation"
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"

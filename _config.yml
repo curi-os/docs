@@ -2,7 +2,7 @@ title: CuriOS Docs
 description: Documentation for CuriOS — A Conversational OS
 theme: just-the-docs
 
-url: "https://curi-os.github.io"
+url: "https://docs.trycurios.com"
 baseurl: "/docs"  # matches the repository name (curi-os/docs → /docs)
 
 markdown: kramdown
